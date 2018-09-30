@@ -1,0 +1,10 @@
+Distributed model: This means your work is your own. You can let others see only what is necessary. Not everything has to be public. There are other advantages to the distributed model, such as the speed (since most everything is local) and possibility of working offline
+
+    Branching and merging are easy: Branching is a walk in the park. It feels like a natural part of the workflow. They are cheap (fast and consume very little space) so that you can branch whenever you want. This means you can sandbox your features and ideas till they are ready for the mainstream.
+    Workflow is flexible: Compared to Centralized VCS, git has the qualities that allow to choose your own workflow. It can be as simple as a centralised workflow to as hierarchical as the dictator-lieutenant workflow. Use the process that best fits you.
+    Data integrity is assured: Because git uses SHA1 trees, data corruption due to external reasons can be easily detected.
+    Icing on the cake:
+        Fast: Git is very fast, even when compared to other DVCS, for local as well as network operations
+
+        Staging area: Make sure your commits have logically grouped changes and not everything else you are working on.
+        Free: I am sure you dont want to spend 450$ for your personal project. Your manager will appreciate it if you save him N x 450$
