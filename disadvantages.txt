@@ -1,0 +1,2 @@
+  Steep learning curve: Many commands with many options, some commands are non-intuitive and need a level of understanding the internals of git, commands and arguments are inconsistent to some degree
+    Binary files are a big no: If your project has non-text files that are updated frequently (images for websites or MS Office documents), then git becomes bloated and slow. (I believe it still does better than most systems)
